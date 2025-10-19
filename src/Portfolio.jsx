@@ -144,7 +144,7 @@ export default function Portfolio() {
                     <a href="#" className="w-12 h-12 bg-gray-900 rounded-lg hover:bg-gray-800 transition-colors flex items-center justify-center border border-gray-800 hover:border-blue-500">
                       <Linkedin size={20} />
                     </a>
-                    <a href="#" className="w-12 h-12 bg-gray-900 rounded-lg hover:bg-gray-800 transition-colors flex items-center justify-center border border-gray-800 hover:border-blue-500">
+                    <a href="mailto:kyle.huang2011@gmail.com" className="w-12 h-12 bg-gray-900 rounded-lg hover:bg-gray-800 transition-colors flex items-center justify-center border border-gray-800 hover:border-blue-500">
                       <Mail size={20} />
                     </a>
                   </div>
