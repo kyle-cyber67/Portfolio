@@ -135,7 +135,7 @@ export default function Portfolio() {
                   JD
                 </div>
                 <div className="flex-1 text-center md:text-left">
-                  <h2 className="text-6xl font-bold mb-4">John Doe</h2>
+                  <h2 className="text-6xl font-bold mb-4">Kyle Huang</h2>
                   <p className="text-2xl text-blue-500 mb-6">Full Stack Developer</p>
                   <div className="flex gap-4 justify-center md:justify-start">
                     <a href="#" className="w-12 h-12 bg-gray-900 rounded-lg hover:bg-gray-800 transition-colors flex items-center justify-center border border-gray-800 hover:border-blue-500">
